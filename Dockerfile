@@ -1,1 +1,1 @@
-FROM --platform=linux/arm64 gcr.io/cadvisor/cadvisor:latest
+FROM velero/velero-plugin-for-csi:v1.6.0
