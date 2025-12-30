@@ -1,1 +1,1 @@
-FROM velero/velero-plugin-for-csi:v1.6.0
+FROM docker.n8n.io/n8nio/n8n
