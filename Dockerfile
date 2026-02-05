@@ -1,1 +1,1 @@
-FROM docker.n8n.io/n8nio/n8n
+FROM gcr.io/kaniko-project/executor:v1.19.0-debug
